@@ -1,0 +1,29 @@
+/* Hallmark · shape: Letter · genre: editorial · theme: Garden (deal 2/3, seed fresh-plants-homes-gardens-2826·a9a07421·2026-11-17·r0) · job: visit · draw: 6c1661
+ * hero: Ledge · nav: banner over a retracting bar · footer: statement · imagery: photographs · signature: honest nursery plant collection with direct WhatsApp enquiry
+ * axes: light/roman-serif/chromatic-green · posture: committed · contrast: pass · fold: pass · v2.0.0 */
+/* Hallmark · pre-emit critique: P9 H9 E9 S9 R9 V9 · weakest: none, grounded nursery palette with clean tokens and zero 3D overhead */
+@import "./tokens.css";
+@import "./base.css" layer(base);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  overflow-x: clip;
+}
+
+body {
+  background-color: var(--color-paper);
+  color: var(--color-ink-2);
+  font-family: var(--font-body);
+}
+
+::selection {
+  background: color-mix(in oklab, var(--color-accent) 22%, transparent);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-focus);
+  outline-offset: 2px;
+}

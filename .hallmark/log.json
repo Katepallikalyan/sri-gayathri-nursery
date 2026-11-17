@@ -1,0 +1,29 @@
+[
+  {
+    "timestamp": "2026-11-17T11:10:00Z",
+    "prompt": "Fresh plants for homes and gardens in KPHB Sri Gayathri Nursery Kukatpally Hyderabad",
+    "theme": "garden",
+    "genre": "editorial",
+    "shape": "Letter",
+    "hero": "Ledge",
+    "nav": "banner over a retracting bar",
+    "footer": "statement",
+    "imagery": "photographs",
+    "photos": [
+      "Among the branches of a potted jade plant.jpg"
+    ],
+    "signature": "honest nursery plant collection with direct WhatsApp enquiry",
+    "sections": [
+      "DemoModeBanner",
+      "Navbar",
+      "HeroSection",
+      "CatalogueSection",
+      "CareGuidesSection",
+      "VisitSection",
+      "Footer"
+    ],
+    "axes": "light/roman-serif/chromatic-green",
+    "posture": "committed",
+    "waived": []
+  }
+]
